@@ -28,6 +28,9 @@ https://youtu.be/iYd_ez8LPas
 * personal_color_model1.h5は学習済みのモデルで､容量が大きいため以下からダウンロードを行って下さい｡
 https://drive.google.com/file/d/1ESLm0Ri3QNrz5isLr1jwXVvSvYaBpNmi/view?usp=sharing
 
+* モデルの作成手順はこちらに記載してあります。
+https://github.com/JUNYA-727/Personal-color-diagnostics
+
 ```bash
 python camera.py
 ```
